@@ -19,3 +19,7 @@ If you want to use markdown learn the style and [use this Styleguide](https://go
 1. [Markdown style guide](https://google.github.io/styleguide/docguide/style.html)
 2. [Layout](https://google.github.io/styleguide/docguide/style.html#document-layout)
 3. [Trailing whitespace](https://google.github.io/styleguide/docguide/style.html#trailing-whitespace)
+
+## addendum
+
+- You can use [Gittyup](https://github.com/Murmele/Gittyup) to visualize the changes
