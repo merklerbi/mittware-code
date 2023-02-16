@@ -1,18 +1,18 @@
 # Readme
 
-## where's the old stuff gone
+## Where's the old stuff gone
 
-- check the tag section
+- Check the tag section
 - v0.1 is what you're searching for (padawan style ^^)
 
-## troubleshooting
+## Troubleshooting
 
-- `git log`
-- consider all new files and changes
-- understand the changes
-- ask for help on disocrd
+- `git log` or use [Gittyup](#gittyup)
+- Consider all new files and changes
+- Understand the changes
+- Ask for help on disocrd
 
-## markdown style
+## Markdown style
 
 If you want to use markdown learn the style and [use this Styleguide](https://google.github.io/styleguide/docguide/style.html)
 
@@ -20,6 +20,10 @@ If you want to use markdown learn the style and [use this Styleguide](https://go
 2. [Layout](https://google.github.io/styleguide/docguide/style.html#document-layout)
 3. [Trailing whitespace](https://google.github.io/styleguide/docguide/style.html#trailing-whitespace)
 
-## addendum
+## Addendum
+
+Please feel free to add more useful git-tools.
+
+### Gittyup
 
 - You can use [Gittyup](https://github.com/Murmele/Gittyup) to visualize the changes
